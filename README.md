@@ -21,11 +21,11 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+```
 Program to print the list of item.
 Developed by: MANOJ MV
 Registeration Number : 212222220023
-*/
+```
 ## Activity_Main.xml
 ```
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".MainActivity">
